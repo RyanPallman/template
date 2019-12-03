@@ -39,14 +39,14 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "video games",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "programming",
       "keywords": [
       ]
     },
@@ -61,23 +61,22 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
+        "PHP",
+        "HTML",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "CSS",
+        "C (Somewhat)"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Trello"
       ]
     }
   ],

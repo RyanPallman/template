@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "https://www.linkedin.com/in/ryan-p-07125911a/"
       },
       {
         "network": "twitter",
@@ -83,14 +83,19 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "institution": "Lakewood High School",
+      "location": "Lakewood, CO",
+      "studyType": "High School Diploma",
+      "endDate": "2017"
+    },
+    {
+      "institution": "Montana State University",
+      "location": "Bozeman, MT",
+      "studyType": "BS",
+      "area": "Computer Science",
+      "gpa": "3.6",
+      "startDate": "Aug 2017",
+      "endDate": "May 2021"
     }
   ],
   "work": [

@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "ryan-p-07125911a",
-        "url": "https://www.linkedin.com/in/ryan-p-07125911a/"
+        "username": "RyanPallman",
+        "url": "https://www.linkedin.com/in/ryanpallman/"
       },
       {
         "network": "twitter",
@@ -41,8 +41,6 @@
     {
       "name": "video games",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -66,7 +64,7 @@
         "HTML",
         "Javascript",
         "CSS",
-        "C (Somewhat)"
+        "C (Novice)"
       ]
     },
     {
@@ -99,11 +97,11 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "company": "ARS / Rescue Rooter Colorado",
+      "position": "Store Sales Associate",
+      "website": "https://www.ars.com/colorado",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-01",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",

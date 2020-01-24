@@ -100,66 +100,53 @@
       "company": "ARS / Rescue Rooter Colorado",
       "position": "Store Sales Associate",
       "website": "https://www.ars.com/colorado",
-      "startDate": "2019-07-01",
-      "endDate": "2019-08-01",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-06-21",
+      "endDate": "2019-16-01",
+      "summary": "Worked as an Authorized Service Provider at Home Depot scheduling appointments and generating leads.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Generate, follow up, and confirm leads for in-home consultations",
+        "Interact with customers while also informing them about our services"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "Montana State University Culinary Services",
+      "position": "Student Worker",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2018-09-01",
+      "endDate": "2019-05-01",
+      "summary": "I worked in various parts of the Rendezvous dining hall.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    },
+        {
+      "company": "U.S. Polo Assn.",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2018-07-01",
+      "endDate": "2018-08-01",
+      "summary": "I worked in the front of store including as a cashier.",
+      "highlights": [
+        "Ensured that displays looked their best",
+        "Helped customers locate products and answered questions"
+      ]
+    },
+        {
+      "company": "Montana State University Culinary Services",
+      "position": "Student Worker",
+      "website": "",
+      "startDate": "2017-10-01",
+      "endDate": "2018-05-01",
+      "summary": "I worked in various parts of the Miller dining hall.",
+      "highlights": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Achievement Award",
+      "date": "2017-Present",
+      "awarder": "Montana State University",
+      "summary": "Scholarship awarded to incoming freshmen and continuing students that meet a specific criteria academically."
     }
   ],
   "references": [
